@@ -72,7 +72,7 @@
         <div class="my-[50px] bg-[#EFAE93] w-full">
           <div class="m-[50px] h-auto">
             <div class="pt-[10px]">
-              <div class="w-[100%] text-left mt-[20px]">
+              <div class="w-[100%] text-center mt-[20px]">
                 <span class="text-white text-[51px] font-[700] lg:text-[34px] break-all">Gallery</span>
               </div>
             </div>
