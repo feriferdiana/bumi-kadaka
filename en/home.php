@@ -323,14 +323,14 @@
                   <div class="w-full grid justify-center">
                     <a href="#">
                       <div class="w-[100%] text-left mt-[40px]">
-                        <div class="w-[400px] h-[298px]">
+                        <div class="w-[200px] sm:w-[400px] h-[298px]">
                           <img src="https://bumikadaka.com/resources/img/home/feature-1a.jpg" alt=""
                             class="h-[190px] w-full object-cover object-bottom hover:scale-105 ease-in-out duration-300">
 
-                          <div class="mt-[20px] text-white text-[28px] font-[700] lg:text-[12px]">
+                          <div class="mt-[20px] text-white text-[18px] sm:text-[28px] font-[700] lg:text-[12px]">
                             Bumi Kadaka at Demo Day KreatIPO 2024
                           </div>
-                          <div class="mt-[20px] text-white text-[17px] font-normal text-justify lg:text-[12px] lg:mt-[10px]">
+                          <div class="mt-[20px] text-white text-[12px] sm:text-[17px]  font-normal text-justify lg:text-[12px] lg:mt-[10px]">
                             Bumi Kadaka had the honor of participating in the Bursa Efek Indonesia Pitching Day, an event aimed at showcasing promising companies to potential investors and stakeholders. This event ...
                           </div>
                         </div>
@@ -341,14 +341,14 @@
                   <div class="w-full grid justify-center">
                     <a href="#">
                       <div class="w-[100%] text-left mt-[40px]">
-                        <div class="w-[400px] h-[298px]">
+                        <div class="w-[200px] sm:w-[400px] h-[298px]">
                           <img src="https://bumikadaka.com/resources/img/home/feature-2.png" alt=""
                             class="h-[190px] w-full object-cover object-bottom hover:scale-105 ease-in-out duration-300">
 
-                          <div class="mt-[20px] text-white text-[28px] font-[700] lg:text-[12px]">
+                          <div class="mt-[20px] text-white text-[18px] sm:text-[28px] font-[700] lg:text-[12px]">
                             Lobby Lounge
                           </div>
-                          <div class="mt-[20px] text-white text-[17px] font-normal text-justify lg:text-[12px] lg:mt-[10px]">
+                          <div class="mt-[20px] text-white text-[12px] sm:text-[17px]  font-normal text-justify lg:text-[12px] lg:mt-[10px]">
                             An elegant setting to savor delicious pastries, coffee or tea in the morning and also popular spot in the evening to enjoy creative mocktail
                           </div>
                         </div>
@@ -358,14 +358,14 @@
                   <div class="w-full grid justify-center">
                     <a href="#">
                       <div class="w-[100%] text-left mt-[40px]">
-                        <div class="w-[400px] h-[298px]">
+                        <div class="w-[200px] sm:w-[400px] h-[298px]">
                           <img src="https://bumikadaka.com/resources/img/home/feature-3.png" alt=""
                             class="h-[190px] w-full object-cover object-bottom hover:scale-105 ease-in-out duration-300">
 
-                          <div class="mt-[20px] text-white text-[28px] font-[700] lg:text-[12px]">
+                          <div class="mt-[20px] text-white text-[18px] sm:text-[28px] font-[700] lg:text-[12px]">
                             Playground
                           </div>
-                          <div class="mt-[20px] text-white text-[17px] font-normal text-justify lg:text-[12px] lg:mt-[10px]">
+                          <div class="mt-[20px] text-white text-[12px] sm:text-[17px]  font-normal text-justify lg:text-[12px] lg:mt-[10px]">
                             Have a good time! in an outdoor playground with beautiful views. Our outdoor playground is equipped with slides, trampolines, climbing
                           </div>
                         </div>
