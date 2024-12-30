@@ -48,12 +48,46 @@
 
               <div class="w-full">
                 <div class="font-[700] font-bold text-[36px] text-left">
+                  KOMISARIS
+                </div>
+                <div class="font-[700] font-bold text-[24px] text-left
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                  HADIYANTO WIBOWO
+                </div>
+                <div class="text-left
+                            xl:mt-[10px]
+                            lg:mt-[10px]">
+                </div>
+                <div class="text-left
+                            xl:mt-[10px]
+                            lg:mt-[10px]">
+                </div>
+                <div class="text-left ml-6
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                </div>
+                <div class="text-left ml-6
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                </div>
+              </div>
+            </div>
+
+            <div class="officer grid mt-[50px]">
+              <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
+                <img src="https://bumikadaka.com/resources/img/about-us/ceo.png"
+                  class="w-full h-auto">
+              </div>
+
+              <div class="w-full">
+                <div class="font-[700] font-bold text-[36px] text-left">
                   CHIEF EXECUTIVE OFFICE (CEO)
                 </div>
                 <div class="font-[700] font-bold text-[24px] text-left
                             xl:mt-[15px]
                             lg:mt-[15px]">
-                  Hadiyanto Wibowo
+                  Mr. SUPRIYANTO
                 </div>
                 <div class="text-left
                             xl:mt-[10px]
