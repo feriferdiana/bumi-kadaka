@@ -53,7 +53,7 @@
       </div>
 
       <!-- MOBILE // di hidden dulu -->
-      <div class="flex w-full flex-col hidden">
+      <!-- <div class="flex w-full flex-col hidden">
         <div class="relative">
           <img src="https://bumikadaka.com/resources/img/slider/slider-image-1.png"
             class="w-full h-[200px] min-[768px]:h-[300px] object-cover">
@@ -71,7 +71,7 @@
           </div>
 
         </div>
-      </div>
+      </div> -->
       <!-- END MOBILE -->
       <!-- END SLIDER -->
 
@@ -321,7 +321,7 @@
 
                 <div class="gap-8 flex overflow-auto h-[500px] lg:h-auto">
                   <div class="w-full grid justify-center">
-                    <a href="#">
+                    <a href="https://bumikadaka.com/en/article/news.php">
                       <div class="w-[100%] text-left mt-[40px]">
                         <div class="w-[200px] sm:w-[400px] h-[298px]">
                           <img src="https://bumikadaka.com/resources/img/home/feature-1a.jpg" alt=""
@@ -339,7 +339,7 @@
                   </div>
 
                   <div class="w-full grid justify-center">
-                    <a href="#">
+                    <a href="https://bumikadaka.com/en/article/news.php">
                       <div class="w-[100%] text-left mt-[40px]">
                         <div class="w-[200px] sm:w-[400px] h-[298px]">
                           <img src="https://bumikadaka.com/resources/img/home/feature-2.png" alt=""
@@ -356,7 +356,7 @@
                     </a>
                   </div>
                   <div class="w-full grid justify-center">
-                    <a href="#">
+                    <a href="https://bumikadaka.com/en/article/news.php">
                       <div class="w-[100%] text-left mt-[40px]">
                         <div class="w-[200px] sm:w-[400px] h-[298px]">
                           <img src="https://bumikadaka.com/resources/img/home/feature-3.png" alt=""
