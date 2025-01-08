@@ -36,55 +36,55 @@
                 <p class="font-bold">Privacy Statement</p>
                 <p class="font-bold">Effective Date: 1 Januari 2025</p>
                 <p>
-                  PT Bumi Kadaka menghargai privasi Anda. Kebijakan ini menjelaskan bagaimana kami mengelola informasi pribadi Anda ketika menggunakan website kami.
+                  PT Bumi Kadaka respects your privacy. This policy explains how we manage your personal information when using our website.
                 </p>
 
                 <ul class="list-decimal ml-8">
                   <li>
-                    Data yang Kami Kumpulkan
+                    Data We Collect
                     <ul class="list-disc ml-8">
                       <li>
-                        Data yang Anda Berikan: Nama, alamat email, nomor telepon, dan informasi lain yang Anda masukkan di formulir kami.
+                        Data You Provide: Your name, email address, phone number, and any other information you enter on our forms.
                       </li>
                       <li>
-                        Data yang Dikumpulkan Secara Otomatis: Alamat IP, jenis browser, dan aktivitas Anda di website.
+                        Automatically Collected Data: Your IP address, browser type, and activity on the website.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Penggunaan Data <br />
-                    Kami menggunakan data pribadi Anda untuk:
+                    Data Usage <br />
+                    We use your personal data to:
                     <ul class="list-disc ml-8">
                       <li>
-                        Memberikan layanan yang Anda minta.
+                        Deliver the service you requested.
                       </li>
                       <li>
-                        Mengirimkan pemberitahuan atau promosi.
+                        Sending out notifications or promotions.
                       </li>
                       <li>
-                        Memenuhi kewajiban hukum.
+                        Fulfil legal obligations.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Bagaimana Kami Melindungi Data Anda
+                    How We Protect Your Data
                     <ul class="list-disc ml-8">
                       <li>
-                        Data Anda disimpan dengan aman menggunakan enkripsi dan teknologi firewall.
+                        Your data is stored securely using encryption and firewall technology.
                       </li>
                       <li>
-                        Kami membatasi akses data hanya kepada karyawan atau mitra yang memerlukannya untuk keperluan operasional.
+                        We limit data access to only those employees or partners who need it for operational purposes.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Hak Anda
+                    Your Rights
                     <ul class="list-disc ml-8">
                       <li>
-                        Anda dapat meminta akses, pembaruan, atau penghapusan data pribadi Anda kapan saja.
+                        You may request access, update or deletion of your personal data at any time.
                       </li>
                       <li>
-                        Untuk mengajukan permintaan, hubungi kami di contact@ptbumikadaka.com
+                        To make a request, contact us at contact@ptbumikadaka.com
                       </li>
                     </ul>
                   </li>
@@ -92,13 +92,13 @@
                     Cookie
                     <ul class="list-disc ml-8">
                       <li>
-                        Kami menggunakan cookie untuk meningkatkan pengalaman pengguna. Anda dapat mengelola preferensi cookie melalui pengaturan browser Anda.
+                        We use cookies to improve user experience. You can manage your cookie preferences through your browser settings.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Kontak <br />
-                    Jika Anda memiliki pertanyaan terkait kebijakan ini, silakan hubungi kami:
+                    Contact <br />
+                    If you have any questions regarding this policy, please contact us:
                     <ul class="list-disc ml-8">
                       <li>
                         Email: contact@ptbumikadaka.com

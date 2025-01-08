@@ -36,18 +36,18 @@
                 <p class="font-bold">Legal Statement</p>
                 <p class="font-bold">Effective Date: 1 Januari 2025</p>
                 <p>
-                  Selamat datang di website PT Bumi Kadaka. Dengan mengakses website ini, Anda setuju untuk mematuhi syarat dan ketentuan berikut:
+                  Welcome to the website of PT Bumi Kadaka. By accessing this website, you agree to abide by the following terms and conditions:
                 </p>
 
                 <ul class="list-decimal ml-8">
                   <li>
-                    Penggunaan Konten
+                    Content Usage
                     <ul class="list-disc ml-8">
                       <li>
-                        Semua konten di website ini, termasuk teks, gambar, logo, dan video, adalah milik PT. Bumi Kadaka atau mitra yang telah memberikan lisensi.
+                        All content on this website, including text, images, logos and videos, is the property of PT Bumi Kadaka or its licensed partners.
                       </li>
                       <li>
-                        Dilarang menggandakan, menyebarkan, atau memodifikasi konten tanpa izin tertulis dari perusahaan.
+                        No duplication, distribution, or modification of the content is permitted without the express written permission of the company.
                       </li>
                     </ul>
                   </li>
@@ -55,29 +55,29 @@
                     Disclaimer
                     <ul class="list-disc ml-8">
                       <li>
-                        Informasi yang disediakan di website ini bersifat informasional saja. Kami tidak menjamin keakuratan, kelengkapan, atau relevansi informasi untuk kebutuhan spesifik Anda.
+                        The information provided on this website is for informational purposes only. We do not guarantee the accuracy, completeness or relevance of the information for your specific needs.
                       </li>
                       <li>
-                        PT Bumi Kadaka tidak bertanggung jawab atas kerugian yang timbul dari penggunaan konten di website ini.
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Hukum yang Berlaku
-                    <ul class="list-disc ml-8">
-                      <li>
-                        Pernyataan hukum ini tunduk pada hukum yang berlaku di Indonesia.
-                      </li>
-                      <li>
-                        Sengketa yang timbul akan diselesaikan melalui pengadilan di Soreang.
+                        PT Bumi Kadaka is not responsible for any losses arising from the use of content on this website.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Perubahan
+                    Applicable Law
                     <ul class="list-disc ml-8">
                       <li>
-                        Kami berhak mengubah isi pernyataan hukum ini kapan saja tanpa pemberitahuan sebelumnya. Perubahan akan berlaku segera setelah dipublikasikan di website ini.
+                        This legal statement is subject to the laws of Indonesia.
+                      </li>
+                      <li>
+                        Disputes arising will be resolved through the courts in Soreang.
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    Changes
+                    <ul class="list-disc ml-8">
+                      <li>
+                        We reserve the right to change the contents of this legal statement at any time without prior notice. Changes will take effect as soon as they are published on this website.
                       </li>
                     </ul>
                   </li>

@@ -33,76 +33,77 @@
 
               <h1 class="text-[51px] font-bold break-all">Accessibility</h1>
               <div class="gap-2 grid mt-8">
-                <p class="font-bold">Komitmen terhadap Aksesibilitas</p>
+                <p class="font-bold">Commitment to Accessibility</p>
                 <p>
-                  PT. Bumi Kadaka berkomitmen untuk memastikan bahwa website kami dapat diakses oleh semua pengguna,
-                  termasuk mereka dengan disabilitas. Kami berusaha untuk memberikan pengalaman online yang inklusif
-                  sesuai dengan standar aksesibilitas global, seperti Web Content Accessibility Guidelines (WCAG) 2.1.
+                  PT Bumi Kadaka is committed to ensuring that our website is accessible to all users,
+                  including those with disabilities. We strive to provide an inclusive online experience
+                  in accordance with global accessibility standards, such as the Web Content Accessibility
+                  Guidelines (WCAG) 2.1.
                 </p>
 
-                <p class="font-bold">Langkah yang Kami Lakukan</p>
-                <p>Untuk memastikan aksesibilitas website kami, langkah-langkah berikut telah diimplementasikan:</p>
+                <p class="font-bold">Steps We Take</p>
+                <p>To ensure the accessibility of our website, the following measures have been implemented:</p>
                 <ul class="list-decimal ml-8">
                   <li>
-                    Navigasi yang Mudah:
+                    Easy Navigation:
                     <ul class="list-disc ml-8">
                       <li>
-                        Semua halaman dirancang dengan struktur navigasi yang konsisten dan dapat diakses menggunakan keyboard.
+                        All pages are designed with a consistent navigation structure and can be accessed using the keyboard.
                       </li>
                       <li>
-                        Tersedia tombol "Skip to Content" untuk pengguna screen reader.
+                        There is a ‘Skip to Content’ button for screen reader users.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Teks Alternatif untuk Media:
+                    Alternative Text for Media:
                     <ul class="list-disc ml-8">
                       <li>
-                        Gambar dan media interaktif dilengkapi dengan deskripsi teks (alt text).
+                        Images and interactive media are accompanied by text descriptions (alt text).
                       </li>
                       <li>
-                        Video dilengkapi dengan teks (closed caption) dan/atau transkrip.
-                      </li>
-                    </ul>
-                  </li>
-                  <li>
-                    Kontras Warna:
-                    <ul class="list-disc ml-8">
-                      <li>
-                        Kombinasi warna pada teks dan latar belakang memiliki rasio kontras yang memadai untuk memudahkan pembacaan.
+                        Videos are accompanied by closed captions and/or transcripts.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Respon Desain (Responsive Design):
+                    Colour Contrast:
                     <ul class="list-disc ml-8">
                       <li>
-                        Website kami kompatibel dengan berbagai perangkat, termasuk layar kecil seperti smartphone atau pembaca layar besar.
+                        The colour combination of the text and background has an adequate contrast ratio for easy reading.
                       </li>
                     </ul>
                   </li>
                   <li>
-                    Kompatibilitas dengan Teknologi Bantu:
+                    Responsive Design:
                     <ul class="list-disc ml-8">
                       <li>
-                        Website ini diuji untuk berfungsi dengan baik pada software pembaca layar populer seperti JAWS dan NVDA.1Bantuan dan Umpan Balik
+                        Our website is compatible with a wide range of devices, including small screens like smartphones or large screen readers.
+                      </li>
+                    </ul>
+                  </li>
+                  <li>
+                    Compatibility with Assistive Technology:
+                    <ul class="list-disc ml-8">
+                      <li>
+                        This website is tested to function properly on popular screen reader software such as JAWS and NVDA.
                       </li>
                     </ul>
                   </li>
                 </ul>
 
                 <p>
-                  Jika Anda mengalami kesulitan mengakses bagian tertentu dari website kami atau
-                  memiliki saran untuk meningkatkan aksesibilitas, kami ingin mendengar dari Anda.
+                  If you are experiencing difficulty accessing certain parts of our website or have suggestions
+                  for improving accessibility, we would like to hear from you.
                 </p>
-                <p>Silakan hubungi kami di:</p>
+                <p>Please contact us at:</p>
                 <ul class="list-disc ml-8">
                   <li>Email: contact@ptbumikadaka.com</li>
                   <li>Telepon: (022) 30509995</li>
                 </ul>
-                <p>Kami akan berupaya untuk memberikan solusi yang sesuai dan segera memperbaiki kendala aksesibilitas yang Anda hadapi.</p>
-                <p class="font-bold">Pembaruan Kebijakan</p>
-                <p>Kebijakan ini diperbarui secara berkala untuk mencerminkan perkembangan teknologi dan kebutuhan pengguna. Pembaruan terakhir dilakukan pada: 1 Januari 2025.</p>
+                <p>We will endeavour to provide a suitable solution and fix the accessibility issues you are facing immediately.</p>
+                <p class="font-bold">Policy Update</p>
+                <p>This policy is updated regularly to reflect technological developments and user needs. The last update was made on: 1 January 2025.</p>
               </div>
             </div>
 
