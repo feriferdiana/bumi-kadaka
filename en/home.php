@@ -230,10 +230,10 @@
         <div class="mt-[90px]">
           <div class="w-full grid grid-cols-2">
             <a href="#">
-              <img class="w-full hover:brightness-50 hover:duration-400" src="https://bumikadaka.com/resources/img/home/doc-image-real.png" alt="forest hills hotel ciwidey" />
+              <img class="w-full brightness-50 hover:brightness-100" src="https://bumikadaka.com/resources/img/home/doc-image-real.png" alt="forest hills hotel ciwidey" />
             </a>
             <a href="#">
-              <img class="w-full hover:brightness-50 hover:duration-400" src="https://bumikadaka.com/resources/img/home/doc-image-real-1.png" alt="sadesa restaurant" />
+              <img class="w-full brightness-50 hover:brightness-100" src="https://bumikadaka.com/resources/img/home/doc-image-real-1.png" alt="sadesa restaurant" />
             </a>
           </div>
         </div>
