@@ -43,7 +43,7 @@
             <div class="officer grid mt-[50px]">
               <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
                 <img src="https://bumikadaka.com/resources/img/about-us/Komisaris.jpg"
-                  class="w-full h-auto">
+                  class="w-full h-auto" style="height: 370px; object-fit: cover;">
               </div>
 
               <div class="w-full">
@@ -77,7 +77,7 @@
             <div class="officer grid mt-[50px]">
               <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
                 <img src="https://bumikadaka.com/resources/img/about-us/ceo.png"
-                  class="w-full h-auto">
+                  class="w-full h-auto" style="height: 370px; object-fit: cover;">
               </div>
 
               <div class="w-full">
@@ -119,7 +119,7 @@
             <div class="officer grid mt-[50px]">
               <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
                 <img src="https://bumikadaka.com/resources/img/about-us/coo.png"
-                  class="w-full h-auto">
+                  class="w-full h-auto" style="height: 370px; object-fit: cover;">
               </div>
 
               <div class="w-full">
@@ -168,7 +168,7 @@
             <div class="officer grid mt-[50px]">
               <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
                 <img src="https://bumikadaka.com/resources/img/about-us/cfo.png"
-                  class="w-full h-auto">
+                  class="w-full h-auto" style="height: 370px; object-fit: cover;">
               </div>
 
               <div class="w-full">
