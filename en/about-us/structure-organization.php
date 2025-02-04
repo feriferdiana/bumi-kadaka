@@ -118,62 +118,13 @@
 
             <div class="officer grid mt-[50px]">
               <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
-                <img src="https://bumikadaka.com/resources/img/about-us/coo.png"
-                  class="w-full h-auto" style="height: 370px; object-fit: cover;">
-              </div>
-
-              <div class="w-full">
-                <div class="font-[700] font-bold text-[36px] text-left">
-                  CHIEF OPERATING OFFICER (COO)
-                </div>
-                <div class="font-[700] font-bold text-[24px] text-left
-                            xl:mt-[15px]
-                            lg:mt-[15px]">
-                  Mr. GALIH ISMART PERMANA
-                </div>
-                <div class="text-left
-                            xl:mt-[10px]
-                            lg:mt-[10px]">
-                  EXPERTISE :
-                </div>
-                <div class="text-left
-                            xl:mt-[10px]
-                            lg:mt-[10px]">
-                  Having expertise and experience in banking and financial for over 10 years."
-                </div>
-                <div class="text-left ml-6
-                            xl:mt-[15px]
-                            lg:mt-[15px]">
-                  <ul class="list-disc list-inside">
-                    <li>Credit Analyst at BRI since 2010 – 2021</li>
-                  </ul>
-                </div>
-                <div class="text-left ml-6
-                            xl:mt-[15px]
-                            lg:mt-[15px]">
-                  <ul class="list-disc list-inside">
-                    <li>CEO at PT RUMAH KESATU since 2021 – 2023</li>
-                  </ul>
-                </div>
-                <div class="text-left ml-6
-                            xl:mt-[15px]
-                            lg:mt-[15px]">
-                  <ul class="list-disc list-inside">
-                    <li>CFO at PT BUMI KADAKA since 2023 - present</li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-            <div class="officer grid mt-[50px]">
-              <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
                 <img src="https://bumikadaka.com/resources/img/about-us/cfo.png"
                   class="w-full h-auto" style="height: 370px; object-fit: cover;">
               </div>
 
               <div class="w-full">
                 <div class="font-[700] font-bold text-[36px] text-left">
-                  CHIEF FINANCIAL OFFICER (CFO)
+                  CHIEF FINANCIAL OFFICER (COO)
                 </div>
                 <div class="font-[700] font-bold text-[24px] text-left
                             xl:mt-[15px]
@@ -209,6 +160,55 @@
                             lg:mt-[15px]">
                   <ul class="list-disc list-inside">
                     <li>General Manager at Forest Hills Hotel Ciwidey since 2022 - present</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <div class="officer grid mt-[50px]">
+              <div class="w-[235px] min-[368px]:w-[326px] flex justify-center">
+                <img src="https://bumikadaka.com/resources/img/about-us/coo.png"
+                  class="w-full h-auto" style="height: 370px; object-fit: cover;">
+              </div>
+
+              <div class="w-full">
+                <div class="font-[700] font-bold text-[36px] text-left">
+                  CHIEF OPERATING OFFICER (CFO)
+                </div>
+                <div class="font-[700] font-bold text-[24px] text-left
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                  Mr. GALIH ISMART PERMANA
+                </div>
+                <div class="text-left
+                            xl:mt-[10px]
+                            lg:mt-[10px]">
+                  EXPERTISE :
+                </div>
+                <div class="text-left
+                            xl:mt-[10px]
+                            lg:mt-[10px]">
+                  Having expertise and experience in banking and financial for over 10 years."
+                </div>
+                <div class="text-left ml-6
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                  <ul class="list-disc list-inside">
+                    <li>Credit Analyst at BRI since 2010 – 2021</li>
+                  </ul>
+                </div>
+                <div class="text-left ml-6
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                  <ul class="list-disc list-inside">
+                    <li>CEO at PT RUMAH KESATU since 2021 – 2023</li>
+                  </ul>
+                </div>
+                <div class="text-left ml-6
+                            xl:mt-[15px]
+                            lg:mt-[15px]">
+                  <ul class="list-disc list-inside">
+                    <li>CFO at PT BUMI KADAKA since 2023 - present</li>
                   </ul>
                 </div>
               </div>
