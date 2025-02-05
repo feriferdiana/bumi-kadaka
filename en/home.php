@@ -17,7 +17,27 @@
           <div class="relative overflow-hidden rounded-lg 
                       h-[202px] min-[461px]:h-[243px] min-[557px]:h-[320px] min-[925px]:h-[460px] 
                       min-[1125px]:h-[517px] min-[1293px]:h-[598px]">
-            <div class="hidden duration-1000 ease-in-out" data-carousel-item>
+
+            <?php
+
+                  $url = "https://ptbumikadaka.com/restfull/banner.php";
+                  $response = file_get_contents($url);
+                  $data = json_decode($response, true);
+
+                  $dataFile = $data['data'];
+            ?>
+
+            <?php foreach ($dataFile as $file): ?>
+              <div class="hidden duration-1000 ease-in-out" data-carousel-item>
+
+                <img  src="https://ptbumikadaka.com/action/<?=$file['source_file']?>"
+                      class=" absolute hidden w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2
+                              lg:w-[100%] min-[925px]:block">
+              </div>
+            <?php endforeach; ?>
+
+
+            <!-- <div class="hidden duration-1000 ease-in-out" data-carousel-item>
               <img src="https://bumikadaka.com/resources/img/slider/slider-1a.png"
                 class="absolute hidden w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2
                         lg:w-[100%] min-[925px]:block">
@@ -26,11 +46,10 @@
                         lg:w-[100%] min-[925px]:hidden">
             </div>
             <div class="hidden duration-1000 ease-in-out" data-carousel-item>
-              <img src="https://bumikadaka.com/resources/img/slider/slider-2.png" class="absolute hidden w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2
-                        lg:w-[100%] min-[925px]:block">
-              <img src="https://bumikadaka.com/resources/img/slider/slider-mobile-2a.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2
-                        lg:w-[100%] min-[925px]:hidden">
-            </div>
+              <img src="https://bumikadaka.com/resources/img/slider/slider-2.png" class="absolute hidden w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 lg:w-[100%] min-[925px]:block">
+              <img src="https://bumikadaka.com/resources/img/slider/slider-mobile-2a.png" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 lg:w-[100%] min-[925px]:hidden">
+            </div> -->
+
           </div>
           <div class="absolute top-0 end-0 z-30 flex items-end justify-end h-full cursor-pointer mt-[-12px] mr-[40px] hidden">
             <button type="button" class="group focus:outline-none" data-carousel-next>
