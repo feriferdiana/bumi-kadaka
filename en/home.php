@@ -339,7 +339,47 @@
                 </div>
 
                 <div class="gap-8 flex overflow-auto h-[500px] lg:h-auto">
-                  <div class="w-full grid justify-center">
+                  
+                  <?php
+                        $urlNews = "https://ptbumikadaka.com/restfull/news.php";
+                        $responseNews = file_get_contents($urlNews);
+                        $dataNews = json_decode($responseNews, true);
+
+                        $news = $dataNews['data'];
+                  ?>
+
+                  <?php foreach ($news as $newsPatch): ?>
+                    <div class="w-full grid justify-center">
+                      <!-- <a href="https://bumikadaka.com/en/article/news.php?id=<?=$newsPatch['id']?>" target="_blank"> -->
+                      <a href="/bumi-kadaka/en/article/news.php?id=<?=$newsPatch['id']?>" target="_blank">
+                        <div class="w-[100%] text-left mt-[40px]">
+                          <div class="w-[200px] sm:w-[400px] h-[298px]">
+                            <img src="https://ptbumikadaka.com/action/<?=$newsPatch['source_file']?>" alt=""
+                              class="h-[190px] w-full object-cover object-bottom hover:scale-105 ease-in-out duration-300">
+
+                            <div class="mt-[20px] text-white text-[18px] sm:text-[28px] font-[700] lg:text-[12px]"
+                                  style="width: 300px; display: -webkit-box; -webkit-line-clamp: 2; /* Batasi ke 2 baris */ -webkit-box-orient: vertical;overflow: hidden;">
+                              <?=$newsPatch['title']?>
+                            </div>
+                            <div class="mt-[20px] text-white text-[12px] sm:text-[17px]  font-normal text-justify lg:text-[12px] lg:mt-[10px]">
+                              <?php 
+                              if (strlen($newsPatch['description']) > 200) {
+                                $description = substr($newsPatch['description'], 0, 200) . '...';
+                              } else {
+                                $description = $newsPatch['description'];
+                              }
+
+                                echo $description;
+                              ?>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  <?php endforeach; ?>
+
+
+                  <!-- <div class="w-full grid justify-center">
                     <a href="https://bumikadaka.com/en/article/news.php">
                       <div class="w-[100%] text-left mt-[40px]">
                         <div class="w-[200px] sm:w-[400px] h-[298px]">
@@ -374,6 +414,7 @@
                       </div>
                     </a>
                   </div>
+
                   <div class="w-full grid justify-center">
                     <a href="https://bumikadaka.com/en/article/news.php">
                       <div class="w-[100%] text-left mt-[40px]">
@@ -390,7 +431,7 @@
                         </div>
                       </div>
                     </a>
-                  </div>
+                  </div> -->
 
                 </div>
               </div>

@@ -9,7 +9,7 @@
                 min-[320px]:w-[100%] min-[320px]:block">
         <div class="text-[#FFF] text-center text-[14px] font-normal font-[400] leading-normal">
             <div class="w-full flex justify-end pr-8 lg:pr-14">
-                <div class="">IN | EN</div>
+                <!-- <div class="">IN | EN</div> -->
             </div>
         </div>
     </div>
