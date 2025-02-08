@@ -350,8 +350,8 @@
 
                   <?php foreach ($news as $newsPatch): ?>
                     <div class="w-full grid justify-center">
-                      <!-- <a href="https://bumikadaka.com/en/article/news.php?id=<?=$newsPatch['id']?>" target="_blank"> -->
-                      <a href="/bumi-kadaka/en/article/news.php?id=<?=$newsPatch['id']?>" target="_blank">
+                      <a href="https://bumikadaka.com/en/article/news.php?id=<?=$newsPatch['id']?>" target="_blank">
+                      <!-- <a href="/bumi-kadaka/en/article/news.php?id=<?=$newsPatch['id']?>" target="_blank"> -->
                         <div class="w-[100%] text-left mt-[40px]">
                           <div class="w-[200px] sm:w-[400px] h-[298px]">
                             <img src="https://ptbumikadaka.com/action/<?=$newsPatch['source_file']?>" alt=""

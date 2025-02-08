@@ -19,6 +19,36 @@
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
   <script src="https://bumikadaka.com/resources/js/function.js"></script>
   <script>
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(
+                (position) => {
+                    const latitude = position.coords.latitude;
+                    const longitude = position.coords.longitude;
+
+                    console.log(latitude);
+
+                },
+                (error) => {
+                    // Jika izin ditolak atau terjadi error
+                    switch (error.code) {
+                        case error.PERMISSION_DENIED:
+                            console.log("Status: Anda menolak permintaan lokasi.");
+                            break;
+                        case error.POSITION_UNAVAILABLE:
+                            console.log("Status: Informasi lokasi tidak tersedia.");
+                            break;
+                        case error.TIMEOUT:
+                            console.log("Status: Permintaan lokasi timeout.");
+                            break;
+                        case error.UNKNOWN_ERROR:
+                            console.log("Status: Terjadi kesalahan yang tidak diketahui.");
+                            break;
+                    }
+                }
+            );
+        }
+
+
         function sendEmail() {
             // Ambil data dari form
             const form = document.getElementById("emailForm");
@@ -28,14 +58,34 @@
             const firstName = formData.get("firstName");
             const lastName = formData.get("lastName");
             const subject = formData.get("subject");
-            const email = formData.get("email");
+            const emailTo = "contact@ptbumikadaka.com";
             const message = formData.get("message");
+            const email = formData.get("email");
 
+            // Hit APi
+            fetch('https://ptbumikadaka.com/restfull/email.php', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ 
+                    firstName: firstName, 
+                    lastName: lastName,
+                    email: email,
+                    subject: subject,
+                    message: message
+                })
+            })
+                .then(response => response.json())
+                .then(data => console.log('Success:', data))
+                .catch(error => console.error('Error:', error));
+
+            // Send Email
             // Format mailto link
-            const mailtoLink = `mailto:${email}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
-                `First Name: ${firstName}\n` +
-                `Last Name: ${lastName}\n` +
-                `Message: ${message}`
+            const mailtoLink = `mailto:${emailTo}?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(
+                `Nama: ${firstName} ${lastName}\n` +
+                `Email: ${email}\n` +
+                `Message: \n ${message}`
             )}`;
 
             // Buka mailto link
